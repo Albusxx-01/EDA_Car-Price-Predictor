@@ -1,4 +1,4 @@
-# 🏷️ Quikr Data Analysis Project
+# 🏷️ Quikr Data Analysis Project for a Car Price Predictor ML
 
 ## 📖 Introduction
 This project focuses on performing Exploratory Data Analysis (EDA) on Quikr listings data to understand pricing trends, category distribution, and factors affecting product prices on the platform.  
